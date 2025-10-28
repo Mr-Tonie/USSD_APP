@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Replace this with your conn.js connection code or your Atlas URI
-const MONGO_URI = "mongodb+srv://paytonchirova_db_user:admin01@cluster0.3zwnrle.mongodb.net/ussdApp?retryWrites=true&w=majority";
+const MONGO_URI = "mongodb+srv://confirm:WsDoONZEE4tx1aNJ@cluster0.0qhljvv.mongodb.net/uzi-music-platform?retryWrites=true&w=majority";
 
 const connectDB = async () => {
   try {
